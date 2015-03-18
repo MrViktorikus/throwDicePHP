@@ -18,7 +18,7 @@ class Dice {
         $rolledDice["sides"] = $this->diceSides;
         $rolledDice["rolls"] = $diceRoll;
 
-        return rolledDice;
+        return $rolledDice;
     }
 
 }

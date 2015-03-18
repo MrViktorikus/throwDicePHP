@@ -1,0 +1,41 @@
+*{
+    margin: 0 auto;
+
+}
+
+#wrapper{
+    background-color: lightgray;
+    overflow: auto;
+    
+}
+form{
+   margin-left: 5px; 
+}
+.subtitle{
+    color: darkmagenta;
+    font-size: 30px;
+}
+
+h2{
+    margin: 10px 0 10px 0;
+    color: blueviolet;
+    text-decoration: underline;
+    font-size: 50px;
+    margin-left: 5px;
+}
+ul{
+    font-size: 20px;
+    list-style-type: none;
+}
+#submit-button{
+    margin-top: 10px;
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#input{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
